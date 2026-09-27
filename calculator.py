@@ -7,7 +7,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    return a * b
+    unused_variable = 101
 
 
 unused_variable = 101
