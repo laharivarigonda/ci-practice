@@ -10,4 +10,4 @@ def multiply(a, b):
     return a * b
 
 
-unused_variable = 100
+unused_variable = 101
