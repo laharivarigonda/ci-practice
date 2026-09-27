@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def multiply(a, b):
     return a * b
+
+
+unused_variable = 100
